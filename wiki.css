@@ -1,0 +1,14 @@
+ul li{
+	background-color:#DFDFDF;
+	padding:20px 30px;
+	margin-top:5px;
+	list-style:none;
+}
+.article{
+	display:none;
+	color:#000;
+}
+.article:hover{
+    text-decoration: none;
+    color:#000;
+}
